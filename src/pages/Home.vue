@@ -1,8 +1,6 @@
 <template>
   <div>
-    <h1>app</h1>
-    <RouterLink>home</RouterLink>
-    <RouterView />
+    <h1>아임어리럴</h1>
   </div>
 </template>
 
