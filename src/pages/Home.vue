@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>홈입니다</h1>
+    <h1>아임어리럴</h1>
   </div>
 </template>
 
